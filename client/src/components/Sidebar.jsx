@@ -25,7 +25,7 @@ export default function Sidebar() {
 
       {/* Navigation Links */}
       <nav className="sidebar-nav">
-        <div className="nav-label">Navigation</div>
+        <div className="nav-label"></div>
 
         <NavLink
           to="/dashboard"
