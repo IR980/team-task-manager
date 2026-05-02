@@ -43,14 +43,14 @@ tasks           — id, project_id, title, description, due_date, priority, stat
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/team-task-manager.git
+git clone https://github.com/IR980/team-task-manager.git
 cd team-task-manager
 
 # Install backend deps
 npm install
 
 # Copy and configure environment
-cp .env.example .env
+cp .env
 # Edit .env — set JWT_SECRET to a random string
 
 # Start backend (dev mode)
@@ -211,4 +211,4 @@ team-task-manager/
 
 ---
 
-Built with ❤️ — TaskFlow
+Built with ❤️ —> By - Irshad
